@@ -1,0 +1,39 @@
+webtoonsdb.com*
+based on Laravel + Vue
+This website is to look at the comic/manga/webtoons with a list being updated daily for free.
+Its foundation is Laravel + Vue, wonderful and fatastic, partner for a perfect full stack.
+This front-end was built on Vue js Single Page Application and back-end was built on Laravel php mvc framework.
+Visitors can view funny comics based on their ranking by title, genre, character, author and more.
+Vuetify and Vuex technology are used and social media link module/services are integrated. Responsive design is keeping beautiful and perfect using bootstrap-vue library and components.
+
+mangahand.com
+based on Laravel + Angular
+Visitors can see the mangas for free. This website was build on Laravel + Angular.
+Front-end is based on Angular(popular javascript framework) back-end is based on Laravel(powerful PHP MVC framework).
+Fron-end and back-end was developed separately for each other.
+MySQL database was used to store huge amount of mangas' data.
+Facebook API and different social media APIs are integrated 
+This website might me updated by other sites such as mangkakalot.com, mangarock.com, mangahub.io and manganelo.com. To scrape lot of data, this use python modules or php curl library.
+
+ramlybola.com
+Laravel betting site
+My development team and me use RESTFUL APIs and other different APIs to implement a lot of functionalities of all games and bettings. Main functionalities are transfer money between accounts to accounts or banks to banks and withdraw and deposit.
+Perfect design for mobile and desktop both versions are enough beautiful and perfect to attract more users. Many services from Laravel framework 
+
+dietsonline.net
+Survey site for keto diet and keep attracting healty based Laravel + Nuxt
+Back-end is based on Laravel PHP framework and front-end is based on Nuxt.js.
+In this site development I used to Laravel as an API and Nuxt as a Single Page Application.
+There are more reasons to use these packages, such as when using Laravel Passport and the CreateFreshApiToken. The middleware will create an api_token cookie on web routes that use the get http verb, and that's a problem if developer is not serving his SPA from within Laravel.
+The ease of development and the vibrant community are what attract you to a Laravel based solution
+
+machinerytrader.com
+You can take an auction to get the best heaby machine. Dev team developed this auction site using CodeIgniter PHP framework and I was in charge of admin-panel.
+Users and admins are able to export status as an image to check their activity.
+CodeIgniter is an open-source software rapid development web framework, for use in building dynamic web sites with PHP. Since I am a talented web developer, I am able to develop project using fully CodeIgniter libraries and third party libraries. If you want to develop a project very urgently, I would recommend CodeIgniter or Laravel as a MVC framework.
+
+avestatek.co.uk
+An e-cormmerce for a better choice of high quaility camera based Opencart CMS.
+The OpenCart marketplace features 13000+ modules and themes to jump-start, grow and expand your business. You can find beautiful themes for just about any sector, service integrations, payment providers, shipping methods, social media, marketing, accounting, reporting, sales as well as language packs.
+Easily and quickly development and stunning usage.
+
